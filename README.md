@@ -1,6 +1,6 @@
 # Deep Learning for Spectrum Sensing
 
-Código utilizado gerar, treinar e avaliar os modelos propostos no artigo.
+Code used to generate, train and evaluate the models proposed in the article.
 
 ## Dataset
 
